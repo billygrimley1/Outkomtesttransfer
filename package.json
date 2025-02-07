@@ -28,3 +28,9 @@
     ]
   }
 }
+
+{
+  "dependencies": {
+    "firebase": "^9.0.0"
+  }
+}
