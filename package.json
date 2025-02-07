@@ -9,7 +9,8 @@
     "react-beautiful-dnd": "^13.1.0",
     "react-icons": "5.4.0",
     "react-confetti": "6.2.2",
-    "react-confetti-explosion": "2.1.2"
+    "react-confetti-explosion": "2.1.2",
+    "firebase": "^9.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,11 +27,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
-}
-
-{
-  "dependencies": {
-    "firebase": "^9.0.0"
   }
 }
